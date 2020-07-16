@@ -1,2 +1,2 @@
 # ironhack.labs.solutions
-Laboratório de exercícios resolvidos do Bootcamp de Data Analytics da Ironhack.
+Solutions for thes exercises completed during Ironhack's Bootcamp of Data Analytics (Jun/20).
